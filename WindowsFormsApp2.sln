@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WindowsFormsApp2\GUI.csproj", "{298DCBC9-75EE-472F-9A7B-CF6686BF1C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{2FAD4861-6A1B-4B93-8320-BB21B7998725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2230EC28-68C1-4960-8EA3-E4D9185985E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298DCBC9-75EE-472F-9A7B-CF6686BF1C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298DCBC9-75EE-472F-9A7B-CF6686BF1C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298DCBC9-75EE-472F-9A7B-CF6686BF1C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298DCBC9-75EE-472F-9A7B-CF6686BF1C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAD4861-6A1B-4B93-8320-BB21B7998725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAD4861-6A1B-4B93-8320-BB21B7998725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAD4861-6A1B-4B93-8320-BB21B7998725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAD4861-6A1B-4B93-8320-BB21B7998725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2230EC28-68C1-4960-8EA3-E4D9185985E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2230EC28-68C1-4960-8EA3-E4D9185985E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2230EC28-68C1-4960-8EA3-E4D9185985E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2230EC28-68C1-4960-8EA3-E4D9185985E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
